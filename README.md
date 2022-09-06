@@ -21,5 +21,6 @@
   <li>docblocker 其他语言的注释美化</li>
   <li>brackkket pair colorizer</li>
   <li>woocommerce snippets and autocomplete woo自动完成和提示函数</li>
-  <li>brackkket pair colorizer</li>
+  <li>PHP debug</li>
+  <li>PHP cs</li>
 </ul>
