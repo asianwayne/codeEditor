@@ -1,4 +1,4 @@
-# codeEditor
+# VSCODE 有用扩展搜集 和使用方法
 
 <!-- wp:list -->
 <ul><li>双击打开列表，单击预览文件</li><li>按住alt+ 数字键盘， 可以打开已经打开的指定顺序的文件。</li><li>如果要跳到指定的文件而这些文件没被打开，就按ctrl + p 或者 mac的cmd + p 输入文件名字就好</li><li>按住ctrl + tab 切换已打开的文件</li><li>按住ctrl+shift+p 打开功能选项， 输入shortcuts json, 找到不是default的shortcode json. 可以更改shortcut</li><li>按住ctrl + 数字键盘，可以创建和切换不同的窗口，可以同时比对文件</li><li>如果要实现ctrl+数字键盘可以如同tab 一样切换文件， 可以修改shortcuts json文件：</li></ul>
